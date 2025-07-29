@@ -1,5 +1,5 @@
 ![](Intro_image.jpg)
-# Hospital-Patient-Records
+# Patient-Records
 Data from Massachussets General Hospital from 2011 - 2022.
 
 ## Data Source
