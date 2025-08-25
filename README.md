@@ -171,3 +171,6 @@ Ambulatory encounters are the highest (12.5K), showing demand for non-emergency 
 
 ## Interactable project link
 https://app.powerbi.com/links/-oxdDJyQDj?ctid=e84dc8d9-db2d-4316-aa74-3cf53c1fe0cd&pbi_source=linkShare&bookmarkGuid=4f53e969-997a-44e2-a3e0-de665002215a
+
+## linkedin 
+https://www.linkedin.com/in/okafor-sopuluchukwu-toby-456693214
